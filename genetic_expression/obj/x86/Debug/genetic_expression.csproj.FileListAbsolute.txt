@@ -1,0 +1,5 @@
+c:\users\vladb\documents\visual studio 2010\Projects\genetic_expression\genetic_expression\bin\Debug\genetic_expression.exe
+c:\users\vladb\documents\visual studio 2010\Projects\genetic_expression\genetic_expression\bin\Debug\genetic_expression.pdb
+c:\users\vladb\documents\visual studio 2010\Projects\genetic_expression\genetic_expression\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\vladb\documents\visual studio 2010\Projects\genetic_expression\genetic_expression\obj\x86\Debug\genetic_expression.exe
+c:\users\vladb\documents\visual studio 2010\Projects\genetic_expression\genetic_expression\obj\x86\Debug\genetic_expression.pdb
